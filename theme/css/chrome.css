@@ -557,6 +557,7 @@ ul#searchresults span.teaser em {
     list-style: none outside none;
     padding-inline-start: 20px;
     line-height: 1.9em;
+    font-size: 0.8em;
 }
 
 /* Theme Menu Popup */
